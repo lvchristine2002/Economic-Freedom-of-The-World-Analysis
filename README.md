@@ -12,3 +12,6 @@ Key Features:
 - Tools and Libraries:
 Python: pandas, statsmodels, scikit-learn, matplotlib, seaborn
 - Data: https://www.fraserinstitute.org/economic-freedom/dataset?geozone=world&page=dataset&min-year=2&max-year=0&filter=0 
+
+Tools and Libraries:
+Python: pandas, statsmodels, scikit-learn, matplotlib, seaborn
